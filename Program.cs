@@ -9,6 +9,7 @@ class Program
         Strings str = new() { str = ['l', 'U', 'i', 'z', 'z', '$', '\t'] };
         Strings str2 = new() { str = ['m', 'e', 'd', 'i', 'c', 'a', 'l', '\t'] };
         Strings str3 = new() { str = ['d', 'e', 'c', 'i', 'm', 'a', 'l', '\t'] };
+        Strings str4 = new() { str = ['A', 'B', 'C', '\t'] };
         strings.StrLength();
         // strings.ToUpper();
         // str.ToUpper();
@@ -26,8 +27,10 @@ class Program
         // str.FindDuplicateHash(str);
         // str.FindDuplicateInBits(str);
         // str.CheckForAnagramHash(str2, str3);
-        str.CheckForAnagramAsBits(str2, str3);
+        // str.CheckForAnagramAsBits(str2, str3);
 
+        str.Permutation(str4, 0);
+        // str4.PermutationSwapping(0, 2);
 
 
 

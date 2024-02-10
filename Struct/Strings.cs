@@ -349,4 +349,50 @@ struct Strings
         // System.Console.WriteLine(H);
     }
 
+    private static int[] A { get; set; } = new int[10];
+    private static char[] Res { get; set; } = new char[10];
+    public void Permutation(Strings strings, int k)
+    {
+        int i;
+        if (strings.str[k] == '\t') { Res[k] = '\t'; System.Console.WriteLine(Res); }
+        else
+            for (i = 0; strings.str[i] != '\t'; i++)
+            {
+                if (A[i] == 0)
+                {
+                    //before call event
+                    Res[k] = strings.str[i];
+                    A[i]++;
+                    Permutation(strings, k + 1);
+                    //return call event
+                    A[i] = 0;
+                }
+            }
+    }
+
+    public static void Swap(ref char x, ref char y)
+    {
+        char temp;
+        temp = x;
+        x = y;
+        y = temp;
+
+    }
+
+    public void PermutationSwapping(int l, int h)
+    {
+        int i;
+        if (h == l)
+        {
+            System.Console.WriteLine(str);
+        }
+        else
+            for (i = l; i <= h; i++)
+            {
+                Swap(ref str[l], ref str[i]);
+                PermutationSwapping(l + 1, h);
+                Swap(ref str[l], ref str[i]);
+            }
+    }
+
 }
