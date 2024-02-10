@@ -1,0 +1,14 @@
+e:\DOC\Data_structure-algorithms\code_snippet\Strings\bin\Debug\net8.0\Strings.exe
+e:\DOC\Data_structure-algorithms\code_snippet\Strings\bin\Debug\net8.0\Strings.deps.json
+e:\DOC\Data_structure-algorithms\code_snippet\Strings\bin\Debug\net8.0\Strings.runtimeconfig.json
+e:\DOC\Data_structure-algorithms\code_snippet\Strings\bin\Debug\net8.0\Strings.dll
+e:\DOC\Data_structure-algorithms\code_snippet\Strings\bin\Debug\net8.0\Strings.pdb
+e:\DOC\Data_structure-algorithms\code_snippet\Strings\obj\Debug\net8.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+e:\DOC\Data_structure-algorithms\code_snippet\Strings\obj\Debug\net8.0\Strings.AssemblyInfoInputs.cache
+e:\DOC\Data_structure-algorithms\code_snippet\Strings\obj\Debug\net8.0\Strings.AssemblyInfo.cs
+e:\DOC\Data_structure-algorithms\code_snippet\Strings\obj\Debug\net8.0\Strings.csproj.CoreCompileInputs.cache
+e:\DOC\Data_structure-algorithms\code_snippet\Strings\obj\Debug\net8.0\Strings.dll
+e:\DOC\Data_structure-algorithms\code_snippet\Strings\obj\Debug\net8.0\refint\Strings.dll
+e:\DOC\Data_structure-algorithms\code_snippet\Strings\obj\Debug\net8.0\Strings.pdb
+e:\DOC\Data_structure-algorithms\code_snippet\Strings\obj\Debug\net8.0\Strings.genruntimeconfig.cache
+e:\DOC\Data_structure-algorithms\code_snippet\Strings\obj\Debug\net8.0\ref\Strings.dll
