@@ -12,3 +12,4 @@ e:\DOC\Data_structure-algorithms\code_snippet\Strings\obj\Debug\net8.0\refint\St
 e:\DOC\Data_structure-algorithms\code_snippet\Strings\obj\Debug\net8.0\Strings.pdb
 e:\DOC\Data_structure-algorithms\code_snippet\Strings\obj\Debug\net8.0\Strings.genruntimeconfig.cache
 e:\DOC\Data_structure-algorithms\code_snippet\Strings\obj\Debug\net8.0\ref\Strings.dll
+e:\DOC\Data_structure-algorithms\code_snippet\Strings\obj\Debug\net8.0\Strings.sourcelink.json
